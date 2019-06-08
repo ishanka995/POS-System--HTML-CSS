@@ -24,7 +24,7 @@ you would like to change.
 
 ## Screenshot
 
-![Page one](/Images/image.png)
+![Page one](/images/001.png)
 
 
 

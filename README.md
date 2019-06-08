@@ -1,4 +1,5 @@
 # POS-System--HTML-CSS
+
 This is a Point of sales System which is made For Ice Cream Cafe.There are Three main secion in this web application.
 
 01.Customer Area
@@ -12,10 +13,13 @@ Also he can Manage Items By adding updating Or deleting.
 Place order is the main Part in this application. 
 Cashier can Add new Customer when placing order or Search a exiting Member by name or Member ID.
 
-##Technologies
+## Technologies
 
-HTML CSS
+HTML & CSS
 
-##Screen Shots
+## Screenshot
+
+![Page one](/Images/image.png)
+
 
 

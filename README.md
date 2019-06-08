@@ -17,9 +17,18 @@ Cashier can Add new Customer when placing order or Search a exiting Member by na
 
 HTML & CSS
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what 
+you would like to change.
+
 ## Screenshot
 
 ![Page one](/Images/image.png)
+
+
+
+
 
 
 
